@@ -38,7 +38,7 @@ Connect to the Windows instance using RDP.
 
 ## OUTPUT
 ### REG NUMBER: 212223040073
-### NAME: Shaik Jayakumar B
+### NAME:Jayakumar B
 1.) S3 bucket creation
 ![Screenshot 2024-11-21 190408](https://github.com/user-attachments/assets/14c6642a-1520-4bcc-a677-db0623db2b04)
 ![Screenshot 2024-11-21 190437](https://github.com/user-attachments/assets/535eae94-1240-44f3-8b53-e7a6b0438176)
